@@ -1,0 +1,10 @@
+certifi==2024.6.2
+charset-normalizer==3.3.2
+confluent-kafka==2.3.0
+idna==3.7
+orjson==3.10.5
+quixstreams==2.4.0
+requests==2.31.0
+rocksdict==0.3.23
+typing_extensions==4.8.0
+urllib3==2.2.2
